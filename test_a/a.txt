@@ -1,3 +1,5 @@
 This is my test file (a.txt) for git.
 I am applying git commands.
 Learning and practice phase.
+
+changing new file.
